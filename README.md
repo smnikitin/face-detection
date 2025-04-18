@@ -44,7 +44,7 @@ pip install opencv-python numpy
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Real-Time-Face-Effects-with-OpenCV.git
+git clone https://github.com/smnikitin/face-detection.git
 cd Real-Time-Face-Effects-with-OpenCV
 ```
 
@@ -65,7 +65,7 @@ Real-Time-Face-Effects-with-OpenCV/
 │
 ├── face_detection_effects.py   # Main application for face effects
 ├── README.md                   # Project documentation
-└── requirements.txt            # (Optional) Python dependencies
+└── LICENSE         # (Optional) 
 ```
 
 ---
