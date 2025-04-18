@@ -45,7 +45,7 @@ pip install opencv-python numpy
 
 ```bash
 git clone https://github.com/smnikitin/face-detection.git
-cd Real-Time-Face-Effects-with-OpenCV
+cd face-detection
 ```
 
 2. Run the script:
@@ -72,8 +72,7 @@ Real-Time-Face-Effects-with-OpenCV/
 
 ## 📸 Screenshots
 
-![demo1](https://example.com/demo1.jpg)  <!-- Replace with your own demo image or GIF -->
-![demo2](https://example.com/demo2.jpg)  <!-- Replace with your own demo image or GIF -->
+![demo1](https://github.com/smnikitin/face-detection/blob/main/img/Capture1.JPG)  <!-- Replace with your own demo image or GIF -->
 
 <!-- You can also include a demo GIF -->
 <!-- ![Demo](demo.gif) -->
