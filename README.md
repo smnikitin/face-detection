@@ -105,8 +105,3 @@ Inspired by tutorials and open-source contributions from the computer vision com
 ## 🤝 Contributing
 
 Pull requests, feature suggestions, and issues are welcome! Let’s make this project even better together. ✨
-```
-
----
-
-Just copy the above content and paste it into your `README.md` file. Be sure to replace the example image URLs (`https://example.com/demo1.jpg`) with your actual demo images or GIFs for a complete readme! Let me know if you need any further changes.
